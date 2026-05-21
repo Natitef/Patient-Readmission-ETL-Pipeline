@@ -79,13 +79,13 @@ Built an interactive Tableau dashboard with 3 visualizations:
 - Hospital performance distribution showing above vs below expected
 
 **PowerBI Dashboard**
-Picture:
+**Picture:**
 <img width="1103" height="621" alt="Hotel Readmission Dashboard" src="https://github.com/user-attachments/assets/03c755a2-d521-4b6a-a7f9-a959771b1013" />
 
-PowerBI Github Link:
+**PowerBI Github Link:**
 https://github.com/Natitef/Patient-Readmission-ETL-Pipeline/blob/fbe824433503988f4578ff36aebb645169f9b872/Hotel%20Readmission%20Dashboard.png
 
 
 
-**Tableau Dashboard**
+**Tableau Dashboard:**
 https://public.tableau.com/shared/CMHGSMTN3
